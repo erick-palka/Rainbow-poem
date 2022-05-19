@@ -4,3 +4,6 @@ yellow
 green
 blue 
 purple 
+grey 
+black 
+silver 
