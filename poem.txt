@@ -7,3 +7,9 @@ purple
 grey 
 black 
 silver 
+white 
+gold 
+saphire 
+emerald 
+unicorns
+edit 2 
